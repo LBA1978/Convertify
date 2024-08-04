@@ -1,0 +1,28 @@
+Convertify/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   ├── com/example/convertify/
+│   │   │   │   │   ├── MainActivity.java
+│   │   │   │   │   ├── HistoryActivity.java
+│   │   │   │   │   ├── SettingsActivity.java
+│   │   │   │   │   ├── data/
+│   │   │   │   │   │   ├── CurrencyRepository.java
+│   │   │   │   │   │   ├── model/
+│   │   │   │   │   │   │   ├── Currency.java
+│   │   │   │   │   │   │   ├── ExchangeRate.java
+│   │   │   │   │   │   ├── network/
+│   │   │   │   │   │   │   ├── ApiClient.java
+│   │   │   │   │   │   │   ├── ApiService.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   ├── activity_history.xml
+│   │   │   │   │   ├── activity_settings.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── strings.xml
+│   │   │   │   │   ├── colors.xml
+│   │   │   │   │   ├── styles.xml
+├── build.gradle
+├── settings.gradle
