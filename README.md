@@ -23,10 +23,10 @@ A simple and innovative currency converter app that provides real-time exchange 
 - Notifications for optimal conversion times
 
 ## Screenshots
-![Screenshot1](Convertify_Screenshot1.png)
-![Screenshot2](Convertify_Screenshot2.png)
-![Screenshot3](Convertify_Screenshot3.png)
-![Screenshot4](Convertify_Screenshot4.png)
+![Screenshot1](images/Convertify_Screenshot1.png)
+![Screenshot2](images/Convertify_Screenshot2.png)
+![Screenshot3](images/Convertify_Screenshot3.png)
+![Screenshot4](images/Convertify_Screenshot4.png)
 
 ## Installation
 
