@@ -1,5 +1,4 @@
 # Convertify
-Currency Converter
 ![Convertify](Convertify_Screenshot1.png)
 
 A simple and innovative currency converter app that provides real-time exchange rates and personalized currency conversion recommendations. Built with modern Android development practices and cloud integration.
