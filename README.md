@@ -1,6 +1,6 @@
 # Convertify
 Currency Converter
-![Convertify](path/to/logo.png)
+![Convertify](C:\Users\lbald\Downloads\Convertify_Screenshot1.png)
 
 A simple and innovative currency converter app that provides real-time exchange rates and personalized currency conversion recommendations. Built with modern Android development practices and cloud integration.
 
@@ -24,9 +24,10 @@ A simple and innovative currency converter app that provides real-time exchange 
 - Notifications for optimal conversion times
 
 ## Screenshots
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.png)
-![Screenshot3](path/to/screenshot3.png)
+![Screenshot1](C:\Users\lbald\Downloads\Convertify_Screenshot1.png)
+![Screenshot2](C:\Users\lbald\Downloads\Convertify_Screenshot2.png)
+![Screenshot3](C:\Users\lbald\Downloads\Convertify_Screenshot3.png)
+![Screenshot4](C:\Users\lbald\Downloads\Convertify_Screenshot4.png)
 
 ## Installation
 
@@ -54,11 +55,12 @@ A simple and innovative currency converter app that provides real-time exchange 
 
 ## Usage
 
-1. **Enter Amount**: Input the amount you want to convert.
-2. **Select Currencies**: Choose the currencies you want to convert from and to using the dropdown menus.
-3. **Convert**: Click the "Convert" button to see the converted amount.
-4. **View Historical Data**: Navigate to the "History" tab to see trends and historical exchange rates.
-5. **Set Notifications**: Go to "Settings" to set up notifications for optimal conversion times.
+1. **Login**: Log in to the app with a passcode.
+2. **Enter Amount**: Input the amount you want to convert.
+3. **Select Currencies**: Choose the currencies you want to convert from and to using the dropdown menus.
+4. **Convert**: Click the "Convert" button to see the converted amount.
+5. **View Historical Data**: Navigate to the "History" tab to see trends and historical exchange rates.
+6. **Set Notifications**: Go to "Settings" to set up notifications for optimal conversion times.
 
 ## Technologies Used
 - **Frontend**: Java, XML, Android SDK
